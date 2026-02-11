@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Rebels",
+  "base_artist": "Call Me Karizma",
+  "createdAt": "2026-02-11T14:11:24.456269Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rebels Kick It",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": false,
+      "path": "select/01_Rebels_Kick_It_YoungBoy_Never_Broke_Again.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rebels",
+      "artist": "W O L F C L U B",
+      "has_synced": true,
+      "path": "select/02_Rebels_W_O_L_F_C_L_U_B.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rhythm to the Rebels",
+      "artist": "Css",
+      "has_synced": true,
+      "path": "select/03_Rhythm_to_the_Rebels_Css.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Rebels",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/04_The_Rebels_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Rebels (Album Version)",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/05_The_Rebels_(Album_Version)_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rebels of the Night",
+      "artist": "U.D.O.",
+      "has_synced": false,
+      "path": "select/06_Rebels_of_the_Night_U.D.O..txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Back To the Rebels",
+      "artist": "The Exit",
+      "has_synced": false,
+      "path": "select/07_Back_To_the_Rebels_The_Exit.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rebels Goodbye",
+      "artist": "Greg Graffin",
+      "has_synced": true,
+      "path": "select/08_Rebels_Goodbye_Greg_Graffin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rebels Rule",
+      "artist": "Stray Cats",
+      "has_synced": true,
+      "path": "select/09_Rebels_Rule_Stray_Cats.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rebel's Hop",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": false,
+      "path": "select/10_Rebel's_Hop_Bob_Marley_&_The_Wailers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rebels",
+      "artist": "Tom Petty and the Heartbreakers",
+      "has_synced": false,
+      "path": "select/11_Rebels_Tom_Petty_and_the_Heartbreakers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rebels Are We",
+      "artist": "Chic",
+      "has_synced": true,
+      "path": "select/12_Rebels_Are_We_Chic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rebels With a Cause",
+      "artist": "Dropkick Murphys",
+      "has_synced": true,
+      "path": "select/13_Rebels_With_a_Cause_Dropkick_Murphys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rebels With a Cause (Explicit)",
+      "artist": "Dropkick Murphys",
+      "has_synced": true,
+      "path": "select/14_Rebels_With_a_Cause_(Explicit)_Dropkick_Murphys.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rebels of the Sacred Heart",
+      "artist": "Flogging Molly",
+      "has_synced": true,
+      "path": "select/15_Rebels_of_the_Sacred_Heart_Flogging_Molly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rebels",
+      "artist": "CallMeKarizma",
+      "has_synced": false,
+      "path": "select/pl_01_Rebels_CallMeKarizma.txt"
+    }
+  ]
+}
